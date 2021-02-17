@@ -9,16 +9,8 @@
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/munozjuan/WorkoutTracker.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/munozjuan/WorkoutTracker/issues"
-  },
-  "homepage": "https://github.com/munozjuan/WorkoutTracker#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongodb": "^3.6.4",
