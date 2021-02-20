@@ -22,15 +22,15 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-# Installation
-The following necessary dependencies must be installed to run the application properly: inquire
+# Built
+ iBootstrap, HTML, CSS, JS, NodeJS, express, mongoose, mongoDB, body-parser and morgan.
 # Usage
-​This application is used for to help make a template engine
+​This application is used for to help keep track of workouts
 # License
 This project is license under the MIT  license.
 # Contributing
 ​Contributors: Juan 
 # Tests
-To run tests, you need to run the following command: Terminal
+To run tests, you need to run the following command: Terminal, mongoose, mongoDB.
 # Questions
 If you have any questions about the repo, open an issue or contact MunozJuan directly JJJUUAANNN07@gmail.com.
